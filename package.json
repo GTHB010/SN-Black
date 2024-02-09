@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shompoe/sn-orange.git"
+    "url": "git://github.com/GTHB010/SN-Black.git"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
