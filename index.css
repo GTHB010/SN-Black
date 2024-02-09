@@ -1,29 +1,29 @@
 :root {
 
-  --background-1: #101010;
-  --background-2: #202020;
+  --background-1: #000000;
+  --background-2: #000000;
   --background-3: #181818;
   --border-color: #303030;
-  --foreground-1: #d0cab1;
-  --foreground-2: #838383;
+  --foreground-1: #FFFFFF;
+  --foreground-2: #FFFFFF;
  
   --sn-stylekit-neutral-color: var(--foreground-2); 
   --sn-stylekit-neutral-contrast-color: black;			/* Button text*/
  
-  --sn-stylekit-info-color: #d09000;
+  --sn-stylekit-info-color: #0017FF;
   --sn-stylekit-info-color-darkened: purple;			/* No effect noted */ 
   --sn-stylekit-info-contrast-color: black;			/* Button text */
   --sn-stylekit-info-backdrop-color: 	var(--background-3);			/* Background of selected theme and category in preferences*/
 
-  --sn-stylekit-success-color: #00a000;
+  --sn-stylekit-success-color: #00FF42;
   --sn-stylekit-success-contrast-color: black;			/* Button text */
 
-  --sn-stylekit-warning-color: #d09000;
+  --sn-stylekit-warning-color: #FF0000;
   --sn-stylekit-warning-contrast-color: black;			/* Button text */
 
-  --sn-stylekit-danger-color: #d00000;				
+  --sn-stylekit-danger-color: #FF0000;				
   --sn-stylekit-danger-contrast-color: black;			/* Button text */
-/*--sn-stylekit-danger-light-color: #d0a0a0;			/* Background of days with notes in journal view */
+/*--sn-stylekit-danger-light-color: #00FFFF;			/* Background of days with notes in journal view */
 
   --sn-stylekit-shadow-color: var(--border-color); 		/* Divider in alternative rich text editor */
   --sn-stylekit-background-color: var(--background-1);		/* Notes panel background, editor header background, and menu background */
@@ -76,3 +76,4 @@
  
   --navigation-item-selected-background-color: var(--sn-stylekit-background-color);
 }
+
