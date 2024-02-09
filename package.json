@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/GTHB010/SN-Black.git"
+    "url": "https://github.com/GTHB010/SN-Black/releases/tag/SN-Black"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
